@@ -1,0 +1,35 @@
+_repo: Nature-readers-b-Sea-side-and-way-side-No-3_72044
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: King, C. S.
+    gutenberg_agent_id: '56515'
+    url: http://www.gutenberg.org/2009/agents/56515
+creator:
+  author:
+    agent_name: Wright, Julia McNair
+    alias: Wright, J. McNair (Julia McNair)
+    birthdate: 1840
+    deathdate: 1903
+    gutenberg_agent_id: '56251'
+    url: http://www.gutenberg.org/2009/agents/56251
+    wikipedia: https://en.wikipedia.org/wiki/Julia_McNair_Wright
+description: ''
+gutenberg_issued: '2023-11-05'
+identifiers:
+  gutenberg: '72044'
+language: en
+pgterms:marc904: https://archive.org/details/naturereaderssea03wrigrich/page/n5/mode/2up
+pgterms:marc905: 20221002143209wright
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bD. C. Heath & Co., $c1888, pubdate 1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nature readers : $b Sea-side and way-side No. 3'
+url: http://www.gutenberg.org/ebooks/72044
