@@ -5,6 +5,9 @@ contributor:
     agent_name: King, C. S.
     gutenberg_agent_id: '56515'
     url: http://www.gutenberg.org/2009/agents/56515
+covers:
+- cover_type: archival
+  image_path: 72044-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Julia McNair
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56251
     wikipedia: https://en.wikipedia.org/wiki/Julia_McNair_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72044#Nature-readers-b-Sea-side-and-way-side-No-3
 gutenberg_issued: '2023-11-05'
 identifiers:
   gutenberg: '72044'
